@@ -50,11 +50,14 @@ const Portfolio = () =>
       <div className="card">
         <div className="card-img"></div>
         <h2>HypeRelease</h2>
-        <p>project description</p>
+        <p>An app for finding the latest Nike Air Jordan and Adidas Yeezy sneaker release dates.
+          The client is built with React. The data is built from a NodeJS / Express webscraper
+           deployed as an API on google firebase.
+        </p>
         <div className="card-footer">
           <a href="">GitHub Repo</a>
           <a href="">Deployed site</a>
-        </div>
+        // </div>
       </div>
 
       <div className="card">
